@@ -1,10 +1,10 @@
 Variables:
 
-NOMINALES: Me permiten clasificar los datos.
+- NOMINALES: Me permiten clasificar los datos.
    ^
-ORDINALES: Me permiten clasificar y ordenar los datos.
+- ORDINALES: Me permiten clasificar y ordenar los datos.
    ^
-CUANTITATIVAS: Me permiten clasificar, ordenar y medir los datos (operaciones matemáticas)
+- CUANTITATIVAS: Me permiten clasificar, ordenar y medir los datos (operaciones matemáticas)
 
 
 # Estadística es una ciencia para el estudio de poblaciones.
