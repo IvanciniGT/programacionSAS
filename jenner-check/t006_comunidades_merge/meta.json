@@ -1,0 +1,7 @@
+{
+  "bundle": "t006_comunidades_merge",
+  "source_file": "Comunidades.sas",
+  "source_blob_sha": "7771b5cd44cc93a4725775545c3cb462ad153a5f",
+  "source_commit": "250cf5e7cbe7b7bd386582beb670ed62d273d998",
+  "notes": "Fixed-column INPUT of the 17 real communities; PROC MEANS OUTPUT OUT= MIN=; DESCENDING SORT; row-by-row MERGE with RETAIN carrying the minimum to compute peso. comunidades.txt data inlined."
+}

@@ -1,0 +1,7 @@
+{
+  "bundle": "t004_intro_rangos_edad",
+  "source_file": "Introducción.sas",
+  "source_blob_sha": "ece647c0e6c4e1cda324ac727e5a6a3b3202770b",
+  "source_commit": "250cf5e7cbe7b7bd386582beb670ed62d273d998",
+  "notes": "Range INVALUE (0-<20, 20-70, OTHER) buckets edad into rangoEdad via input(); VALUE displays labels. Inline data."
+}

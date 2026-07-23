@@ -1,0 +1,7 @@
+{
+  "bundle": "t005_intro_output_split",
+  "source_file": "Introducción.sas",
+  "source_blob_sha": "ece647c0e6c4e1cda324ac727e5a6a3b3202770b",
+  "source_commit": "250cf5e7cbe7b7bd386582beb670ed62d273d998",
+  "notes": "Single DATA step writes two datasets via conditional OUTPUT, with DROP/RENAME on the second. Inline data."
+}

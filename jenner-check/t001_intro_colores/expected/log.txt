@@ -1,0 +1,18 @@
+NOTE: Jenner v1.5.38 (build v1.5.38+f1f587b0da.20260722T050919Z.x86_64-unknown-linux-gnu)
+
+NOTE: Option OBS changed to 100.
+NOTE: DATA colores
+
+NOTE: Processing inline DATALINES (6 lines)
+
+NOTE: Read 6 rows from DATALINES.
+NOTE: Wrote colores (6 rows, 2 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: PROC PRINT data=WORK.colores
+
+NOTE: PROC PRINT completed: 6 observations printed, 2 variables
+NOTE: PROC PRINT data=colores
+
+NOTE: PROC PRINT completed: 6 observations printed, 2 variables

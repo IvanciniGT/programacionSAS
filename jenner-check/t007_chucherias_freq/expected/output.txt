@@ -1,0 +1,28 @@
+                                                   The FREQ Procedure
+
+                                      Cumulative    Cumulative
+Color       Frequency    Percent     Frequency      Percent
+-----------------------------------------------------------------
+Amarillo            1     12.50            1        12.50
+Azul                3     37.50            4        50.00
+Rojo                2     25.00            6        75.00
+Verde               2     25.00            8       100.00
+                                                   The FREQ Procedure
+
+                                      Cumulative    Cumulative
+Producto    Frequency    Percent     Frequency      Percent
+-----------------------------------------------------------------
+Botella             3     37.50            3        37.50
+Chicle              3     37.50            6        75.00
+Piruleta            2     25.00            8       100.00
+
+  Obs  Cliente  Producto     Color
+-----  -------  --------  --------
+    1        1  Piruleta  Amarillo
+    2        1   Botella      Azul
+    3        3    Chicle      Azul
+    4        3  Piruleta      Azul
+    5        2   Botella      Rojo
+    6        2    Chicle      Rojo
+    7        4   Botella     Verde
+    8        1    Chicle     Verde

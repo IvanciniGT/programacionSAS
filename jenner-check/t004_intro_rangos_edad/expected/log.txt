@@ -1,0 +1,26 @@
+NOTE: Option OBS changed to 100.
+NOTE: DATA personas
+
+NOTE: Processing inline DATALINES (6 lines)
+
+NOTE: Read 6 rows from DATALINES.
+NOTE: Wrote personas (6 rows, 2 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: PROC FORMAT library=WORK
+
+NOTE: FORMAT rangosEdad defined (3 ranges).
+NOTE: INFORMAT rangosEdad defined (3 mappings)
+NOTE: DATA personas
+
+NOTE: Numeric values have been converted to character values at the places given by: (Line):(Column).
+
+NOTE: Read 6 rows from personas.
+NOTE: Wrote personas (6 rows, 3 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: PROC PRINT data=personas
+
+NOTE: PROC PRINT completed: 6 observations printed, 3 variables

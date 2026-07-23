@@ -1,0 +1,18 @@
+{
+  "_captured_at": "2026-07-23T11:23:17Z",
+  "_captured_run_id": "r_bf3304008a85498283f3d0db69c58e2b",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "NOTE: Wrote coloresNormalizados (7 rows, 1 columns).",
+    "NOTE: PROC PRINT completed: 7 observations printed, 1 variables"
+  ],
+  "log_does_not_contain": [
+    "ERROR:",
+    "[JENNER-ERROR"
+  ],
+  "diagnostics": {
+    "parse_warnings": [],
+    "runtime_warnings": []
+  }
+}

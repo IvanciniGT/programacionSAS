@@ -1,0 +1,9 @@
+
+  Obs  edad    nombre     rangoEdad
+-----  ----  --------  ------------
+    1    25  Federico        Adulto
+    2    33  Lucas           Adulto
+    3    44  Menchu          Adulto
+    4    88  Fermin    Tercera edad
+    5    17  Juanito          Joven
+    6    55  Juanita         Adulto

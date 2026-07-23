@@ -1,0 +1,19 @@
+{
+  "_captured_at": "2026-07-23T11:23:17Z",
+  "_captured_run_id": "r_22aa5d3862e04c04a74e6b3a6636216d",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "NOTE: Wrote comunidades (17 rows, 3 columns).",
+    "NOTE: Output dataset WORK.estadisticasComunidad has 1 observations and 1 variables.",
+    "NOTE: PROC PRINT completed: 17 observations printed, 3 variables"
+  ],
+  "log_does_not_contain": [
+    "ERROR:",
+    "[JENNER-ERROR"
+  ],
+  "diagnostics": {
+    "parse_warnings": [],
+    "runtime_warnings": []
+  }
+}

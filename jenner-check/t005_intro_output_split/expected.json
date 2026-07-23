@@ -1,0 +1,19 @@
+{
+  "_captured_at": "2026-07-23T11:23:17Z",
+  "_captured_run_id": "r_3103c56422594c289b5d9a87d34f3ede",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "NOTE: Wrote personasMayores (5 rows, 3 columns).",
+    "NOTE: Wrote personasMenores (1 rows, 3 columns).",
+    "NOTE: PROC PRINT completed: 5 observations printed, 3 variables"
+  ],
+  "log_does_not_contain": [
+    "ERROR:",
+    "[JENNER-ERROR"
+  ],
+  "diagnostics": {
+    "parse_warnings": [],
+    "runtime_warnings": []
+  }
+}

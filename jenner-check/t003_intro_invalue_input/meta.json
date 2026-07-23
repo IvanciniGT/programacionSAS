@@ -1,0 +1,7 @@
+{
+  "bundle": "t003_intro_invalue_input",
+  "source_file": "Introducción.sas",
+  "source_blob_sha": "ece647c0e6c4e1cda324ac727e5a6a3b3202770b",
+  "source_commit": "250cf5e7cbe7b7bd386582beb670ed62d273d998",
+  "notes": "Bidirectional format: INVALUE read via input(), VALUE display. Round-trips color names through nombresColores."
+}
