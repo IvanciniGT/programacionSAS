@@ -1,0 +1,24 @@
+NOTE: Option OBS changed to 100.
+NOTE: DATA comunidades
+
+NOTE: Processing inline DATALINES (17 lines)
+
+NOTE: Read 17 rows from DATALINES.
+NOTE: Wrote comunidades (17 rows, 3 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: PROC MEANS
+NOTE: Output dataset WORK.estadisticasComunidad has 1 observations and 1 variables.
+NOTE: PROC MEANS statement used.
+NOTE: PROC SORT data=WORK.comunidades
+
+NOTE: Read 17 rows from WORK.comunidades.
+NOTE: Wrote WORK.comunidades (17 rows, 3 columns).
+NOTE: PROC SORT statement used.
+NOTE: DATA comunidadesProcesado
+
+NOTE: MERGE statement used without BY variables. Performing positional merge (row 1 with row 1, etc.).
+NOTE: PROC PRINT data=comunidadesProcesado
+
+NOTE: PROC PRINT completed: 17 observations printed, 3 variables

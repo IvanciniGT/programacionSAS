@@ -1,0 +1,20 @@
+
+  Obs  codigo
+-----  ------
+    1       1
+    2       2
+    3       4
+    4       3
+    5       5
+    6      99
+    7      99
+
+  Obs    codigo
+-----  --------
+    1    Blanco
+    2     Negro
+    3   Violeta
+    4  Amarillo
+    5      Azul
+    6      Otro
+    7      Otro

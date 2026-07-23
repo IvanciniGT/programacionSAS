@@ -1,0 +1,7 @@
+{
+  "bundle": "t007_chucherias_freq",
+  "source_file": "Chucherias.sas",
+  "source_blob_sha": "b24df8e66bec60e1b2612f0a8fc7ecd291674ee8",
+  "source_commit": "250cf5e7cbe7b7bd386582beb670ed62d273d998",
+  "notes": "PROC FREQ TABLE .. / out=(DROP) twice; build formats via PROC FORMAT CNTLIN= from the FREQ output; two-step MERGE join to map product/color to their Start ids. chucherias data inlined."
+}
